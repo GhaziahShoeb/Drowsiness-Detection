@@ -4,3 +4,4 @@ pip install time
 pip install pyttsx3
 pip install dlib
 pip install scipy 
+from scipy.spatial import distance
